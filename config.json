@@ -1,0 +1,16 @@
+{
+  "calories": {
+    "male": {
+      "sedentary": 2500,
+      "very active": 2700,
+      "moderate": 2900,
+      "active": 3100
+    },
+    "female": {
+      "sedentary": 2000,
+      "very active": 2100,
+      "moderate": 2200,
+      "active": 2400
+    }
+  }
+}

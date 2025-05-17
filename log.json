@@ -1,0 +1,155 @@
+[
+    {
+        "gender": "female",
+        "weight": 1.67,
+        "height": 78,
+        "age": 56,
+        "activity": "sedentary",
+        "calories_consumed": 623,
+        "calories_limit": 657,
+        "breakfast": [
+            "egg"
+        ],
+        "lunch": [
+            "pizza"
+        ],
+        "dinner": [
+            "milk"
+        ],
+        "snacks": [
+            "avocado"
+        ],
+        "timestamp": "2025-05-13 18:42:15"
+    },
+    {
+        "gender": "female",
+        "weight": 1.78,
+        "height": 70,
+        "age": 23,
+        "activity": "active",
+        "calories_consumed": 1498,
+        "calories_limit": 341,
+        "breakfast": [
+            "bread",
+            "yogurt",
+            "avocado"
+        ],
+        "lunch": [
+            "hamburger"
+        ],
+        "dinner": [
+            "pizza",
+            "croissant"
+        ],
+        "snacks": [
+            "orange"
+        ],
+        "timestamp": "2025-05-13 19:01:47"
+    },
+    {
+        "gender": "female",
+        "weight": 1.7,
+        "height": 67,
+        "age": 25,
+        "activity": "very active",
+        "calories_consumed": 1826,
+        "calories_limit": 0,
+        "breakfast": [
+            "bacon",
+            "egg"
+        ],
+        "lunch": [
+            "ice cream",
+            "pizza"
+        ],
+        "dinner": [
+            "fish",
+            "corn"
+        ],
+        "snacks": [
+            "potato",
+            "jam"
+        ],
+        "timestamp": "2025-05-13 19:06:15"
+    },
+    {
+        "gender": "female",
+        "weight": 1.68,
+        "height": 67,
+        "age": 34,
+        "activity": "sedentary",
+        "calories_consumed": 461,
+        "calories_limit": 125,
+        "breakfast": [
+            "apple"
+        ],
+        "lunch": [
+            "corn"
+        ],
+        "dinner": [
+            "orange"
+        ],
+        "snacks": [
+            "pizza"
+        ],
+        "timestamp": "2025-05-13 19:14:40"
+    },
+    {
+        "gender": "male",
+        "weight": 1.76,
+        "height": 67,
+        "age": 34,
+        "activity": "active",
+        "calories_consumed": 613,
+        "calories_limit": 516,
+        "breakfast": [
+            "Banana"
+        ],
+        "lunch": [
+            "Corn"
+        ],
+        "dinner": [
+            "pizza"
+        ],
+        "snacks": [
+            "orange"
+        ],
+        "timestamp": "2025-05-13 20:23:06"
+    },
+    {
+        "gender": "female",
+        "weight": 1.7,
+        "height": 50,
+        "age": 20,
+        "activity": "active",
+        "calories_consumed": 541,
+        "calories_limit": 130,
+        "breakfast": [
+            "egg"
+        ],
+        "lunch": [
+            "salad"
+        ],
+        "dinner": [
+            "fish"
+        ],
+        "snacks": [
+            "avocado"
+        ],
+        "timestamp": "2025-05-13 21:27:13"
+    },
+    {
+        "gender": "female",
+        "weight": 1.7,
+        "height": 56,
+        "age": 34,
+        "activity": "sedentary",
+        "calories_consumed": 150,
+        "calories_limit": 43,
+        "breakfast": [
+            "4532gf"
+        ],
+        "lunch": [],
+        "dinner": [],
+        "snacks": [],
+        "timestamp": "2025-05-13 21:51:15",
