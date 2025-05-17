@@ -47,3 +47,4 @@ class CalorieCalculator:
         except Exception as e:
             print(f"Error calculating total calorie count: {e}")
             return 0
+#am facut un comentariu
